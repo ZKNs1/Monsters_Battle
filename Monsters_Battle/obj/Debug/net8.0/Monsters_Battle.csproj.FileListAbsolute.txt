@@ -1,0 +1,14 @@
+C:\ADS\design pattern\Monsters_Battle\bin\Debug\net8.0\Monsters_Battle.exe
+C:\ADS\design pattern\Monsters_Battle\bin\Debug\net8.0\Monsters_Battle.deps.json
+C:\ADS\design pattern\Monsters_Battle\bin\Debug\net8.0\Monsters_Battle.runtimeconfig.json
+C:\ADS\design pattern\Monsters_Battle\bin\Debug\net8.0\Monsters_Battle.dll
+C:\ADS\design pattern\Monsters_Battle\bin\Debug\net8.0\Monsters_Battle.pdb
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.GeneratedMSBuildEditorConfig.editorconfig
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.AssemblyInfoInputs.cache
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.AssemblyInfo.cs
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.csproj.CoreCompileInputs.cache
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.dll
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\refint\Monsters_Battle.dll
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.pdb
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\Monsters_Battle.genruntimeconfig.cache
+C:\ADS\design pattern\Monsters_Battle\obj\Debug\net8.0\ref\Monsters_Battle.dll
